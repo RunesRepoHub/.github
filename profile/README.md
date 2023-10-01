@@ -2,9 +2,13 @@
 
 ### What is RPH?
 
-That is the "company" name for my work.
+**That is the "company" name for my work.**
 
-I make/play around with almost any form of IT.
+**I make/play around with almost any form of IT.**
+
+### Linux 
+
+**I am a big fan of linux and shell so a lot of my stuff is going to focus on that.**
 
 
 <!--
