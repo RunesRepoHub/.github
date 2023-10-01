@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### What is RPH?
+
+That is the "company" name for my work.
+
+I make/play around with almost any form of IT.
+
+
 <!--
 
 **Here are some ideas to get you started:**
