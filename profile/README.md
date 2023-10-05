@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-https://uptime.rp-helpdesk.com/api/badge/1/status
+[https://uptime.rp-helpdesk.com/api/badge/1/status]
 
-https://uptime.rp-helpdesk.com/api/badge/1/uptime
+[https://uptime.rp-helpdesk.com/api/badge/1/uptime]
 
 Github runner 1 
 https://uptime.rp-helpdesk.com/api/badge/3/ping
