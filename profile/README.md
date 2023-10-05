@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![status](https://uptime.rp-helpdesk.com/api/badge/3/status)
+(https://uptime.rp-helpdesk.com/api/badge/3/status?style=for-the-badge)
 
 ### What is RPH?
 
