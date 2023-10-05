@@ -1,17 +1,6 @@
 ## Hi there 👋
 
-[https://uptime.rp-helpdesk.com/api/badge/1/status]
-
-[https://uptime.rp-helpdesk.com/api/badge/1/uptime]
-
-Github runner 1 
-https://uptime.rp-helpdesk.com/api/badge/3/ping
-
-Github runner 2
-https://uptime.rp-helpdesk.com/api/badge/2/ping
-
-Github Runner 3
-https://uptime.rp-helpdesk.com/api/badge/4/ping
+https://uptime.rp-helpdesk.com/api/badge/4/status
 
 
 ### What is RPH?
