@@ -2,6 +2,8 @@
 
 ![Uptime Status](https://status.rp-helpdesk.com/api/badge/1/status)
 
+https://status.rp-helpdesk.com/api/badge/1/status
+
 
 ### What is RPH?
 
