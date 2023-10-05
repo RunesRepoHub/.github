@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-(https://uptime.rp-helpdesk.com/api/badge/3/status?style=for-the-badge)
+![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
 
 ### What is RPH?
 
